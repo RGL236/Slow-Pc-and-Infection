@@ -39,7 +39,7 @@ Key Logger: <br/>
 - <b>Ran SUPERAntiSpyware: Performed a full system scan to check for additional threats; removed tracking cookies and minor threats.</b> 
 
 <br />
-Select the disk:  <br/>
+Superantispyware Infections:  <br/>
 <img src="https://i.imgur.com/zdGb0tn.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
